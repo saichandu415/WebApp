@@ -6008,3 +6008,11 @@ body > * {
   background-size: cover;
   background-repeat: none;
   background-position: center; }
+
+.customBtn {
+  text-align: center; }
+
+#customImage img {
+  margin-left: auto;
+  margin-right: auto;
+  display: block; }
